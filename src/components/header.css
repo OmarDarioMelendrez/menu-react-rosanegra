@@ -1,0 +1,16 @@
+.headerMenu {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+  }
+  .headerMenu img {
+    height: 100px;
+    width: auto;
+    margin: 0;
+  }
+  
